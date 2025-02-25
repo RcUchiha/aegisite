@@ -6,7 +6,7 @@ menu:
 weight: 1000
 ---
 
-Bienvenido al manual Aegisub. Vea nuestra página [Acerca de]({{<relref path="About">}}) para más info del programa, o explore los temas en el panel a la izquierda.
+Bienvenido al manual de Aegisub. Vea nuestra página [Acerca de]({{<relref path="About">}}) para más información del programa, o explore los temas en el panel a la izquierda.
 
 Documentación relacionada con el desarrollo de Aegisub y con la compilación del mismo está ubicada en el [rastreo de errores](https://github.com/Aegisub/Aegisub/issues).
 
@@ -17,7 +17,7 @@ Documentación relacionada con el desarrollo de Aegisub y con la compilación de
 **Tareas comunes:**
 
 - [Sincronizar un guion traducido al audio]({{<relref path="Audio">}})
-- [Composición tipográfica básica de señales en pantalla]({{<relref path="Tutorials#composición-tipográfica-visual">}})
+- [Realizar una edición básica de carteles en pantalla]({{<relref path="Tutorials#composición-tipográfica-visual">}})
 - [Poner subtítulos completados en el video]({{<relref path="Attaching_subtitles_to_video">}}) (para la reproducción o distribución)
 
 <!-- -->
@@ -28,4 +28,4 @@ Documentación relacionada con el desarrollo de Aegisub y con la compilación de
 <!-- -->
 
 - [Sincronizar karaoke con una canción]({{<relref path="Tutorials#sincronizador-kanji">}})
-- [Crear efectos al estilo karaoke]({{<relref path="Automation/Karaoke_Templater/Tutorial_1">}})
+- [Crear efectos avanzados para karaoke]({{<relref path="Automation/Karaoke_Templater/Tutorial_1">}})
