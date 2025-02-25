@@ -1,5 +1,5 @@
 ---
-title: Credits
+title: Créditos
 menu:
   docs:
     parent: introduction
