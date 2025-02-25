@@ -9,11 +9,11 @@ en:
 
 es-us:
   languageName: Español
-  contentDir: content/es-us
+  contentDir: content/es-mx
   weight: 15
   params:
     languageISO: ES
-    languageTag: es-US
+    languageTag: es-MX
     dateFormat: "January 2, 2006"
 
 zh-cn:
