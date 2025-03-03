@@ -15,7 +15,7 @@ subtitle lines, see [working with audio]({{< relref "Audio" >}}).
 
 ## Opening subtitles
 
-In the _File_ menu, there are four menu choices that relate to opening or
+In the _File_ menu, there are five menu choices that relate to opening or
 creating subtitles:
 
 New subtitles
